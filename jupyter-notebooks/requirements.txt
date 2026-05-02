@@ -1,0 +1,8 @@
+pandas
+numpy
+plotly
+#molten.nvim deps
+pynvim
+jupyter_client
+ipykernel
+nbformat
