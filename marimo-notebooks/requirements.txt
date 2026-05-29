@@ -1,17 +1,13 @@
+marimo
 pandas
 numpy
+
 # for plots
 matplotlib
 seaborn
 
 #scrape internet
 beautifulsoup4
-
-#molten.nvim, jupiter-notebook deps
-pynvim
-jupyter_client
-ipykernel
-nbformat
 
 #parsepdf
 pdfplumber
